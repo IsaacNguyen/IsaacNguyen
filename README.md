@@ -1,4 +1,4 @@
-### Hi, I am Isaac Nguyen, a first year studying Computer Science at UCI 👋
+### Hi! I am Isaac Nguyen, a first year studying Computer Science at UCI 👋
 
 <!--
 **IsaacNguyen/IsaacNguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
