@@ -1,8 +1,8 @@
 ### Hi! I am Isaac Nguyen, a second year studying Computer Science at UCI 👋
 
-🔭 I’m currently interning at Atoma Media, a startup focusing on democratizing financial information using AI.
-🌱 I love attending hackathons too! I am a 2x hackathon winner!
-⚡ Fun fact: I love to cook!
+- 🔭 I’m currently interning at Atoma Media, a startup focusing on democratizing financial information using AI.
+- 🌱 I love attending hackathons too! I am a 2x hackathon winner!
+- ⚡ Fun fact: I love to cook!
 <!--
 **IsaacNguyen/IsaacNguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
