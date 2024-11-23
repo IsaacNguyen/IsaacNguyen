@@ -4,6 +4,7 @@
 - 👯 I'm also a Software Developer for Commit the Change, an organization that makes software for nonprofits, and AntAlamanac, a student-run UCI schedule planner.
 - 🌱 I love attending hackathons too! I am a 2x hackathon winner!
 - ⚡ Fun fact: I love to cook!
+- 😄 [Checkout my portfolio here!](https://isaacnguyen.github.io/)
 <!--
 **IsaacNguyen/IsaacNguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
