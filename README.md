@@ -1,7 +1,7 @@
 ### Hi! I am Isaac Nguyen, a second year studying Computer Science at UCI 👋
 
 - 🔭 I’m currently interning at Atoma Media, a startup focusing on democratizing financial information using AI.
-- 👯 I'm also a Software Developer for Commit the Change, an organization that makes software for nonprofits, and AntAlamanac, a student-run UCI schedule planner.
+- 👯 I'm also a Software Developer for Commit the Change, an organization that makes software for nonprofits, and AntAlmanac, a student-run UCI schedule planner.
 - 🌱 I love attending hackathons too! I am a 2x hackathon winner!
 - ⚡ Fun fact: I love to cook!
 - 😄 [Checkout my portfolio here!](https://isaacnguyen.github.io/)
