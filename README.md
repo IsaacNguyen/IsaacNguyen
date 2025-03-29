@@ -1,6 +1,6 @@
 ### Hi! I am Isaac Nguyen, a second year studying Computer Science at UCI 👋
-
-- 👯 I'm a Full-Stack Developer for Commit the Change, where I produce software for a nonprofit named [Colette's Children Home](https://www.coletteschildrenshome.com/) that aids 7,000+ homeless mothers/children.
+- 🚀 I will be interning at [Amazon Web Services](https://aws.amazon.com/) this summer in East Palo Alto, CA!
+- 👯 I am also a Full-Stack Developer for Commit the Change, where I produce software for a nonprofit named [Colette's Children Home](https://www.coletteschildrenshome.com/) that aids 7,000+ homeless mothers/children.
 - 🌱 Additionally, I'm a Software Development Engineer for [AntAlmanac](https://antalmanac.com/), a student-run UCI class schedule planner aiding 8,000+ UCI students.
 - 🔭 I’ve also interned at [Atoma Media](https://www.joinatoma.com/), a startup focusing on democratizing financial information using AI.
 - 🌱 I love attending hackathons too! I am a 2x hackathon winner!
