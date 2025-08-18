@@ -1,10 +1,7 @@
-### Hi! I am Isaac Nguyen, a second year studying Computer Science at UCI 👋
-- 🚀 I will be interning at [Amazon Web Services](https://aws.amazon.com/) this summer in East Palo Alto, CA!
-- 👯 I am also a Full-Stack Developer for Commit the Change, where I produce software for a nonprofit named [Colette's Children Home](https://www.coletteschildrenshome.com/) that aids 7,000+ homeless mothers/children.
-- 🌱 Additionally, I'm a Software Development Engineer for [AntAlmanac](https://antalmanac.com/), a student-run UCI class schedule planner aiding 8,000+ UCI students.
-- 🔭 I’ve also interned at [Atoma Media](https://www.joinatoma.com/), a startup focusing on democratizing financial information using AI.
-- 🌱 I love attending hackathons too! I am a 2x hackathon winner!
-- ⚡ Fun fact: I love to cook!
+### Hi! I am Isaac Nguyen, a third year studying Computer Science at UCI 👋
+- 🚀 I've interned at [Amazon Web Services](https://aws.amazon.com/) this past summer in East Palo Alto, CA!
+- 👯 I build software for non-profits through [Commit the Change](https://ctc-uci.com/) and help 8,000+ UCI students by developing [AntAlmanac](https://antalmanac.com/)!
+- ⚡ Some fun facts about me: I'm a 2x hackathon winner. I love to cook. I've ran a 7:21 [milk mile](https://www.google.com/search?q=what+is+a+milk+mile&sca_esv=c494bae66f0d82f6&rlz=1C5CHFA_enUS970US988&sxsrf=AE3TifOHL8nXwoR50TzOYRYM005F8_wCqg%3A1755491777842&udm=50&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeiAkWG4OlBE2zyCTMjPbGmMNVzzdxBOnCKmP4GlQhWOKEpCNqronls6VY9OEW1LNhIs2E2kXXkNyugaGcXrVBLuhy3O9Idg3OS_2jWUYYEx2G5S9UPGcabKdVQvh7GSXkm1t1KEZOjpFoUo0Uv0Lu82ue_xEjUCbp5M9qU11pySRjhkR2A&aep=1&ntc=1&sa=X&sqi=2&ved=2ahUKEwi0-su-xJOPAxW6IDQIHRB1NpEQ2J8OegQIDxAD&biw=1469&bih=723&dpr=2&mtid=1q2iaMigF__a0PEPx8rsqA0&mstk=AUtExfAXNKhS1oCz-jn8tsNSFCejOo4HejvpasPaU-isWr3MPyYczxm_xuzLPgC4AKxubeuGF4MPlE2OhgtxkAGsKHMDIOThrA9tgNp3nyjZcr_3oB707k8mI7TWftKA9bjI2wH-Q-8qnaHYZ4w63psrgAOh3f8dM2Xn7SiV8EuI8I-yW2JlGgidpe1Pd4N9asOaPFVHDDn6pDEqu3mOxUyQDekNbVdUy2dBUkjvaInjnxGTCttgoGYyZeaKaxGfLpSWUHRrm6UbPVi6AFTw54mhNHKx0O1ZYkXfLXGGKDeuu7UkPLgV7pOS7tnOhCx3hPCKytp7_Nu6lPeuqBvhGf-bw_aVGxubiL--3UybbOkRjdjL4CMsTpe2mQZsAW8c9XAMEX_IbIrH5gkLz5vBg8lZdc0DRYUQis6TfA&csuir=1) . And I have a pretty successful [clothes reselling business](https://depop.com/isaacscloset67)!
 - 😄 [Checkout my portfolio here!](https://isaacnguyen.github.io/)
 <!--
 **IsaacNguyen/IsaacNguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
